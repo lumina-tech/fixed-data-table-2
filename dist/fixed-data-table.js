@@ -3703,7 +3703,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 var ReactChildren = _react2.default.Children;
 
 var EMPTY_OBJECT = {};
-var BORDER_HEIGHT = 1;
+var BORDER_HEIGHT = 0;
 var HEADER = 'header';
 var FOOTER = 'footer';
 var CELL = 'cell';
