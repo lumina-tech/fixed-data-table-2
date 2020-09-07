@@ -6,7 +6,8 @@ chrome-user-data
 __build__
 __site__
 __site_prerender__
-internal
+# We want to access the internal code in our shared repository
+# internal
 docs/api
 dist
 .tmp
